@@ -7,7 +7,7 @@ _Creating JavaScript Help And FAQ Responsive Widget With Animations From Scratch
 A responsive widget that can display help and faq about your Business using vanilla javascript and some CSS animations, you can customize this widget and use it on your website or web application this is a frontend widget without any server requests and database. In JavaScript, I'm using dummy data as questions and answers but you can make a fetch or XMLHttpRequest to your API and get your data from the server and your database.
 
 ## Video Tutorial [ Creating This Widget From Scratch ]
-[https://youtu.be/IDUYec2B-KE](https://youtu.be/IDUYec2B-KsE)
+[https://youtu.be/IDUYec2B-KE](https://youtu.be/IDUYec2B-KE)
 
  
 
